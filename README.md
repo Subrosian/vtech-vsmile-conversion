@@ -1,1 +1,2 @@
 # vtech-vsmile-conversion
+This project is to put a Raspberry Pi inside of a 1st Generation VTech V.Smile game console, retaining compatibility with original controllers. It will use an Ardruino Pro Micro to do the controller protocol conversion to a standard USB gamepad. This is a work-in-progress.
