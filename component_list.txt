@@ -1,0 +1,3 @@
+1x AMS1117 DC-DC Step-Down Power Module 3.3V Buck (Example: https://www.amazon.com/dp/B01HXU1NQY)
+1x 4 Channels I2C Logic Level Converter Bi-Directional 3.3V-5V Shifter (Example: https://www.amazon.com/dp/B07F7W91LC)
+1x Arduino Pro Micro Atmega32U4 (Example: https://www.amazon.com/dp/B01MTU9GOB)
